@@ -1,0 +1,1 @@
+cd root touch up_to_date && echo content > up_to_date
